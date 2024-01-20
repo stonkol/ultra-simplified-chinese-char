@@ -1,6 +1,6 @@
 # ultra-simplified-chinese-char
 
-A new Chinese Character System for faster writting, easy to read is small text and more.
+A new Chinese Character System for faster writting, easy to read in small text, easy to learn for non-chinese speaking people and more.
 
 Don't be too serious, open your mind and be creative.
 
